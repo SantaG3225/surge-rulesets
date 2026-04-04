@@ -1,0 +1,149 @@
+# United States Rule-Set for Surge
+# Strict mode: Service-owned domains preferred
+# Last updated: 2026-04-04
+# Usage: RULE-SET,https://cdn.jsdelivr.net/gh/SantaG3225/surge-rulesets@main/us.list,UNITED_STATES
+
+# === ISPs & Telecom ===
+DOMAIN-SUFFIX,at&t.com
+DOMAIN-SUFFIX,verizon.com
+DOMAIN-SUFFIX,comcast.com
+DOMAIN-SUFFIX,charter.com
+DOMAIN-SUFFIX,centurylink.com
+DOMAIN-SUFFIX,fios.com
+DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,sprint.com
+DOMAIN-SUFFIX,tmobile.com
+
+# === Cloud & CDN ===
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,linode.com
+DOMAIN-SUFFIX,digitalocean.com
+
+# === Financial & Banking ===
+DOMAIN-SUFFIX,bofa.com
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,usbank.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,td.com
+DOMAIN-SUFFIX,ally.com
+DOMAIN-SUFFIX,amex.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,square.com
+
+# === E-Commerce & Retail ===
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,bestbuy.com
+DOMAIN-SUFFIX,homedepot.com
+DOMAIN-SUFFIX,lowes.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,kroger.com
+DOMAIN-SUFFIX,wholefoodsmarket.com
+
+# === Education ===
+DOMAIN-SUFFIX,harvard.edu
+DOMAIN-SUFFIX,mit.edu
+DOMAIN-SUFFIX,stanford.edu
+DOMAIN-SUFFIX,yale.edu
+DOMAIN-SUFFIX,berkeley.edu
+DOMAIN-SUFFIX,caltech.edu
+DOMAIN-SUFFIX,columbia.edu
+DOMAIN-SUFFIX,duke.edu
+DOMAIN-SUFFIX,jhu.edu
+DOMAIN-SUFFIX,upenn.edu
+DOMAIN-SUFFIX,cornell.edu
+DOMAIN-SUFFIX,dartmouth.edu
+DOMAIN-SUFFIX,northwestern.edu
+DOMAIN-SUFFIX,nyu.edu
+DOMAIN-SUFFIX,ucla.edu
+
+# === Media & News ===
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,apnews.com
+DOMAIN-SUFFIX,theguardian.com
+
+# === Entertainment & Streaming ===
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,disneyworld.disney.go.com
+
+# === Social Media ===
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,telegram.org
+
+# === Search & Web Services ===
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,quora.com
+
+# === Government & Regulatory ===
+DOMAIN-SUFFIX,usa.gov
+DOMAIN-SUFFIX,whitehouse.gov
+DOMAIN-SUFFIX,congress.gov
+DOMAIN-SUFFIX,senate.gov
+DOMAIN-SUFFIX,house.gov
+DOMAIN-SUFFIX,irs.gov
+DOMAIN-SUFFIX,ssa.gov
+DOMAIN-SUFFIX,usps.com
+
+# === Tech Companies ===
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,qualcomm.com
+DOMAIN-SUFFIX,cisco.com
+DOMAIN-SUFFIX,ibm.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,salesforce.com
+
+# === Utilities & Services ===
+DOMAIN-SUFFIX,uber.com
+DOMAIN-SUFFIX,lyft.com
+DOMAIN-SUFFIX,airbnb.com
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,hotels.com
+DOMAIN-SUFFIX,expedia.com
+DOMAIN-SUFFIX,southwest.com
+DOMAIN-SUFFIX,united.com
+DOMAIN-SUFFIX,delta.com
+DOMAIN-SUFFIX,aa.com
