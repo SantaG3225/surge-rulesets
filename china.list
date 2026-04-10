@@ -80,14 +80,10 @@ DOMAIN-SUFFIX,spdb.com.cn
 DOMAIN-SUFFIX,95599.com.cn
 DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,ebank.cmbchina.com
-DOMAIN-SUFFIX,mybank.icbc.com.cn
-DOMAIN-SUFFIX,creditcard.icbc.com.cn
-DOMAIN-SUFFIX,creditcard.boc.cn
 DOMAIN-SUFFIX,stockchina.com.cn
 DOMAIN-SUFFIX,sina-finance.com
 
 # === E-Commerce & Retail ===
-DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabagroup.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tmall.com
@@ -97,26 +93,18 @@ DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,youzan.com
 DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,gome.com.cn
 DOMAIN-SUFFIX,yihaodian.com.cn
 
 # === Social Media & Messaging ===
 DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,sina.com.cn
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qzone.qq.com
-DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,live.bilibili.com
 DOMAIN-SUFFIX,niconico.jp
 DOMAIN-SUFFIX,acfun.tv
 
@@ -124,12 +112,9 @@ DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,letv.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,imgo.tv
 DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,cctv.com
@@ -138,29 +123,13 @@ DOMAIN-SUFFIX,imanhua.com
 DOMAIN-SUFFIX,manhuaren.com
 
 # === Music & Audio Streaming ===
-DOMAIN-SUFFIX,music.qq.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,qingting.fm
 DOMAIN-SUFFIX,ximalaya.com
 
 # === Education & Knowledge ===
-DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,tsinghua.edu.cn
-DOMAIN-SUFFIX,pku.edu.cn
-DOMAIN-SUFFIX,zju.edu.cn
-DOMAIN-SUFFIX,fudan.edu.cn
-DOMAIN-SUFFIX,sjtu.edu.cn
-DOMAIN-SUFFIX,xjtu.edu.cn
-DOMAIN-SUFFIX,hust.edu.cn
-DOMAIN-SUFFIX,whu.edu.cn
-DOMAIN-SUFFIX,sdu.edu.cn
-DOMAIN-SUFFIX,huazhong.edu.cn
-DOMAIN-SUFFIX,cmu.edu.cn
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,jianshu.com
@@ -173,31 +142,12 @@ DOMAIN-SUFFIX,people.com.cn
 DOMAIN-SUFFIX,chinanews.com.cn
 DOMAIN-SUFFIX,cna.ntu.edu.tw
 DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sina.com.cn
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,eastday.com
 DOMAIN-SUFFIX,cnhuaxia.com
-DOMAIN-SUFFIX,tech.sina.com.cn
-DOMAIN-SUFFIX,mil.news.sina.com.cn
 
 # === Government & Regulatory ===
-DOMAIN-SUFFIX,gov.cn
-DOMAIN-SUFFIX,npc.gov.cn
-DOMAIN-SUFFIX,cac.gov.cn
-DOMAIN-SUFFIX,fmprc.gov.cn
-DOMAIN-SUFFIX,mfa.gov.cn
-DOMAIN-SUFFIX,miit.gov.cn
-DOMAIN-SUFFIX,moj.gov.cn
-DOMAIN-SUFFIX,aqsiq.gov.cn
-DOMAIN-SUFFIX,saic.gov.cn
-DOMAIN-SUFFIX,cbrc.gov.cn
-DOMAIN-SUFFIX,gac.gov.cn
 
 # === Search & Web Services ===
-DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,bing.com
@@ -216,9 +166,6 @@ DOMAIN-SUFFIX,mafengwo.cn
 
 # === Food & Delivery ===
 DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,meituan.com
-DOMAIN-SUFFIX,dianping.com
-DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,dazhong.com
 
 # === Ride-hailing & Transportation ===
@@ -235,17 +182,12 @@ DOMAIN-SUFFIX,yeation.com
 DOMAIN-SUFFIX,dxycdn.com
 
 # === Gaming ===
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,perfectworld.com
-DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,changyou.com
-DOMAIN-SUFFIX,game.163.com
 
 # === Utilities & Services ===
 DOMAIN-SUFFIX,12306.cn
-DOMAIN-SUFFIX,12369.gov.cn
 DOMAIN-SUFFIX,chinahomeapp.com
 DOMAIN-SUFFIX,fang.com
 DOMAIN-SUFFIX,lianjia.com

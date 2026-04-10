@@ -16,93 +16,46 @@ DOMAIN-SUFFIX,icloudmail.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mac.com
 DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,cloudkit.apple.com
 
 # === App Store & iTunes ===
 DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,music.apple.com
-DOMAIN-SUFFIX,podcasts.apple.com
 
 # === Apple ID & Authentication ===
-DOMAIN-SUFFIX,appleid.apple.com
-DOMAIN-SUFFIX,appleid.cdn-apple.com
-DOMAIN-SUFFIX,idmsa.apple.com
-DOMAIN-SUFFIX,gsa.apple.com
-DOMAIN-SUFFIX,icloud.com
 
 # === Apple Maps ===
-DOMAIN-SUFFIX,maps.apple.com
-DOMAIN-SUFFIX,mapscdn.apple.com
-DOMAIN-SUFFIX,gc.apple.com
-DOMAIN-SUFFIX,gspe21.ls.apple.com
-DOMAIN-SUFFIX,ls.apple.com
 
 # === Siri & Voice ===
-DOMAIN-SUFFIX,siri.apple.com
-DOMAIN-SUFFIX,api.siri.apple.com
 
 # === Apple News ===
-DOMAIN-SUFFIX,news.apple.com
 DOMAIN-SUFFIX,apple-news.com
-DOMAIN-SUFFIX,news-edge.apple.com
 
 # === Apple TV+ ===
-DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,apple-tv.com
-DOMAIN-SUFFIX,atv-external-prod.apple.com
 
 # === Apple Music ===
-DOMAIN-SUFFIX,music.apple.com
-DOMAIN-SUFFIX,musickit.apple.com
-DOMAIN-SUFFIX,streaming.media.apple.com
 
 # === Apple Arcade ===
-DOMAIN-SUFFIX,arcade.apple.com
-DOMAIN-SUFFIX,gc.apple.com
 
 # === Apple Fitness+ ===
-DOMAIN-SUFFIX,fitness.apple.com
 
 # === Apple Health & HealthKit ===
-DOMAIN-SUFFIX,health.apple.com
-DOMAIN-SUFFIX,healthkit.apple.com
 
 # === Apple Pay ===
 DOMAIN-SUFFIX,apple-pay.com
-DOMAIN-SUFFIX,pay.apple.com
-DOMAIN-SUFFIX,appleid.apple.com
 
 # === Apple Support ===
-DOMAIN-SUFFIX,support.apple.com
-DOMAIN-SUFFIX,selfsolve.apple.com
 
 # === Apple Developer ===
-DOMAIN-SUFFIX,developer.apple.com
-DOMAIN-SUFFIX,appstoreconnect.apple.com
-DOMAIN-SUFFIX,developer.apple.com
-DOMAIN-SUFFIX,xcode.apple.com
-DOMAIN-SUFFIX,wwdcbeta.apple.com
 
 # === Apple Business ===
-DOMAIN-SUFFIX,business.apple.com
 
 # === Apple Education ===
-DOMAIN-SUFFIX,education.apple.com
 
 # === Apple Security & Privacy ===
-DOMAIN-SUFFIX,ssl.apple.com
-DOMAIN-SUFFIX,certificates.apple.com
 
 # === Apple Software Updates ===
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,swdist.apple.com
-DOMAIN-SUFFIX,swcdn.apple.com
-DOMAIN-SUFFIX,updates.cdn-apple.com
-DOMAIN-SUFFIX,configuration.apple.com
 
 # === Apple CDN & Content Delivery ===
 DOMAIN-SUFFIX,cdn-apple.com
@@ -110,122 +63,59 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,apple-dns.net
 
 # === Apple iMessage & FaceTime ===
-DOMAIN-SUFFIX,imessage.apple.com
-DOMAIN-SUFFIX,facetime.apple.com
-DOMAIN-SUFFIX,ichat.apple.com
 
 # === Apple Continuity ===
-DOMAIN-SUFFIX,continuity.apple.com
-DOMAIN-SUFFIX,handoff.apple.com
 
 # === Apple HomeKit ===
-DOMAIN-SUFFIX,home.apple.com
-DOMAIN-SUFFIX,home-devices.apple.com
-DOMAIN-SUFFIX,homekit.apple.com
 
 # === Apple Watch ===
-DOMAIN-SUFFIX,watch.apple.com
-DOMAIN-SUFFIX,watchos.apple.com
 
 # === Apple TV (Device) ===
-DOMAIN-SUFFIX,atv.apple.com
-DOMAIN-SUFFIX,tvos.apple.com
 
 # === Apple CarPlay ===
-DOMAIN-SUFFIX,carplay.apple.com
 
 # === Apple ProDisplay & ProRes ===
-DOMAIN-SUFFIX,pro.apple.com
-DOMAIN-SUFFIX,prores.apple.com
 
 # === Apple Retail ===
 DOMAIN-SUFFIX,apple.com/retail
 DOMAIN-SUFFIX,apple.com/contact
 
 # === Apple Feedback & Analytics ===
-DOMAIN-SUFFIX,metrics.apple.com
-DOMAIN-SUFFIX,analytics.apple.com
-DOMAIN-SUFFIX,osxapps.apple.com
-DOMAIN-SUFFIX,data.icloud.com
-DOMAIN-SUFFIX,settings-ssl.icloud.com
 
 # === Apple Push Notification ===
-DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,api.push.apple.com
-DOMAIN-SUFFIX,courier.push.apple.com
 
 # === Apple Mail ===
-DOMAIN-SUFFIX,mail.apple.com
 
 # === Apple Calendar & Reminders ===
-DOMAIN-SUFFIX,calendar.apple.com
-DOMAIN-SUFFIX,reminders.apple.com
 
 # === Apple Notes & iCloud Drive ===
-DOMAIN-SUFFIX,notes.apple.com
-DOMAIN-SUFFIX,drive.icloud.com
-DOMAIN-SUFFIX,icloud-content.com
 
 # === Apple Photos ===
-DOMAIN-SUFFIX,photos.apple.com
-DOMAIN-SUFFIX,photos.icloud.com
-DOMAIN-SUFFIX,photoscdn.icloud.com
 
 # === Apple Contacts ===
-DOMAIN-SUFFIX,contacts.apple.com
-DOMAIN-SUFFIX,contacts.icloud.com
 
 # === Apple Backup & Restore ===
-DOMAIN-SUFFIX,backup.icloud.com
-DOMAIN-SUFFIX,setup.icloud.com
 
 # === Apple Stocks ===
-DOMAIN-SUFFIX,stocks.apple.com
 
 # === Apple Podcasts ===
-DOMAIN-SUFFIX,podcasts.apple.com
 
 # === Apple Books ===
-DOMAIN-SUFFIX,books.apple.com
 
 # === Apple Find My ===
-DOMAIN-SUFFIX,findmy.apple.com
-DOMAIN-SUFFIX,fmip-device-service-prod.apple.com
 
 # === Apple Keychain ===
-DOMAIN-SUFFIX,keychain.icloud.com
 
 # === Apple Screen Time ===
-DOMAIN-SUFFIX,screentime.apple.com
 
 # === Apple Family Sharing ===
-DOMAIN-SUFFIX,family.apple.com
 
 # === Apple Business Essentials ===
-DOMAIN-SUFFIX,businessessentials.apple.com
 
 # === Apple Shazam Integration ===
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,shazamid.com
 
 # === Apple Search Ads ===
-DOMAIN-SUFFIX,searchads.apple.com
 
 # === Additional Apple Domains ===
-DOMAIN-SUFFIX,icloud-MailSmtp.apple.com
-DOMAIN-SUFFIX,profile.ess.apple.com
-DOMAIN-SUFFIX,p01-calendars.icloud.com
-DOMAIN-SUFFIX,p01-contacts.icloud.com
-DOMAIN-SUFFIX,p01-mail.icloud.com
-DOMAIN-SUFFIX,p01-notes.icloud.com
-DOMAIN-SUFFIX,p01-photos.icloud.com
-DOMAIN-SUFFIX,p02-calendars.icloud.com
-DOMAIN-SUFFIX,p02-contacts.icloud.com
-DOMAIN-SUFFIX,p02-mail.icloud.com
-DOMAIN-SUFFIX,p02-notes.icloud.com
-DOMAIN-SUFFIX,p02-photos.icloud.com
-DOMAIN-SUFFIX,p03-calendars.icloud.com
-DOMAIN-SUFFIX,p03-contacts.icloud.com
-DOMAIN-SUFFIX,p03-mail.icloud.com
-DOMAIN-SUFFIX,p03-notes.icloud.com
-DOMAIN-SUFFIX,p03-photos.icloud.com

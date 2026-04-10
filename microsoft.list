@@ -16,12 +16,9 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,microsoft365.com
 DOMAIN-SUFFIX,m365apps.com
-DOMAIN-SUFFIX,officeapps.live.com
-DOMAIN-SUFFIX,officehome.msocdn.com
 
 # === OneDrive & SharePoint ===
 DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepointonline.com
@@ -29,47 +26,26 @@ DOMAIN-SUFFIX,spoprod-a.akamaized.net
 
 # === Outlook & Email ===
 DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,outlook.office.com
-DOMAIN-SUFFIX,outlook.office365.com
 DOMAIN-SUFFIX,outlookmobile.com
-DOMAIN-SUFFIX,mail.live.com
 DOMAIN-SUFFIX,hotmail.com
 
 # === Microsoft Teams ===
-DOMAIN-SUFFIX,teams.microsoft.com
-DOMAIN-SUFFIX,teams.office.com
 DOMAIN-SUFFIX,teams.microsoft.cn
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeforbusiness.com
 
 # === OneDrive API ===
-DOMAIN-SUFFIX,api.onedrive.com
 DOMAIN-SUFFIX,d.docs.live.net
-DOMAIN-SUFFIX,sync.onedrive.com
-DOMAIN-SUFFIX,spd.onedrive.com
 
 # === Word, Excel, PowerPoint Online ===
-DOMAIN-SUFFIX,word.office.com
-DOMAIN-SUFFIX,excel.office.com
-DOMAIN-SUFFIX,powerpoint.office.com
-DOMAIN-SUFFIX,forms.office.com
-DOMAIN-SUFFIX,sway.office.com
 
 # === Microsoft 365 Apps ===
 DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,access.office.com
-DOMAIN-SUFFIX,publisher.office.com
-DOMAIN-SUFFIX,project.microsoft.com
-DOMAIN-SUFFIX,visio.office.com
 
 # === Microsoft Account / Live ID ===
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.cn
 DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,account.live.com
-DOMAIN-SUFFIX,account.microsoft.com
-DOMAIN-SUFFIX,login.live.com
-DOMAIN-SUFFIX,login.microsoftonline.com
 
 # === Azure Services ===
 DOMAIN-SUFFIX,azure.com
@@ -82,64 +58,41 @@ DOMAIN-SUFFIX,azureservicefabric.com
 DOMAIN-SUFFIX,azurestack.com
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,cloudapp.net
-DOMAIN-SUFFIX,cloudapp.azure.com
 
 # === Azure App Services ===
-DOMAIN-SUFFIX,appservice.azurewebsites.net
 DOMAIN-SUFFIX,azureapp.net
 
 # === Azure DevOps ===
-DOMAIN-SUFFIX,dev.azure.com
 DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,tfs.visualstudio.com
 DOMAIN-SUFFIX,vsts.me
 
 # === Dynamics & CRM ===
 DOMAIN-SUFFIX,dynamics.com
-DOMAIN-SUFFIX,crm.dynamics.com
-DOMAIN-SUFFIX,crm9.dynamics.com
 
 # === Power BI ===
 DOMAIN-SUFFIX,powerbi.com
 DOMAIN-SUFFIX,powerbi.cn
-DOMAIN-SUFFIX,powerbicdn.azureedge.net
 DOMAIN-SUFFIX,analysis.windows.net
 DOMAIN-SUFFIX,pbiviz.com
 
 # === Power Apps & Power Automate ===
 DOMAIN-SUFFIX,powerapps.com
 DOMAIN-SUFFIX,powerappsportals.com
-DOMAIN-SUFFIX,flow.microsoft.com
-DOMAIN-SUFFIX,env-01a.powerapps.com
 
 # === Microsoft Intune ===
-DOMAIN-SUFFIX,intune.microsoft.com
-DOMAIN-SUFFIX,manage.microsoft.com
-DOMAIN-SUFFIX,endpoint.microsoft.com
 
 # === Microsoft Defender ===
-DOMAIN-SUFFIX,defender.microsoft.com
-DOMAIN-SUFFIX,securitycompliance.microsoft.com
-DOMAIN-SUFFIX,protection.microsoft.com
 
 # === Microsoft 365 Security & Compliance ===
-DOMAIN-SUFFIX,compliance.microsoft.com
-DOMAIN-SUFFIX,security.microsoft.com
 
 # === Microsoft Identity & Access ===
-DOMAIN-SUFFIX,login.microsoft.com
-DOMAIN-SUFFIX,graph.microsoft.com
 DOMAIN-SUFFIX,sts.windows.net
 
 # === Windows Update & Services ===
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,update.microsoft.com
-DOMAIN-SUFFIX,delivery.mp.microsoft.com
-DOMAIN-SUFFIX,windowsupdate.microsoft.com
 
 # === OnlineServices Authentication ===
-DOMAIN-SUFFIX,onlineservices.microsoft.com
 
 # === Xbox & Gaming ===
 DOMAIN-SUFFIX,xbox.com
@@ -154,7 +107,6 @@ DOMAIN-SUFFIX,windowsgames.com
 # === Minecraft ===
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,launcher.mojang.com
-DOMAIN-SUFFIX,realms.minecraft.net
 
 # === GitHub (Microsoft Owned) ===
 DOMAIN-SUFFIX,github.com
@@ -171,14 +123,9 @@ DOMAIN-SUFFIX,linkedinddr.com
 
 # === Microsoft Learn & Training ===
 DOMAIN-SUFFIX,microsoft.com/learn
-DOMAIN-SUFFIX,learn.microsoft.com
-DOMAIN-SUFFIX,training.microsoft.com
 DOMAIN-SUFFIX,edx.org
 
 # === Microsoft Store ===
-DOMAIN-SUFFIX,microsoftstore.com
-DOMAIN-SUFFIX,store.microsoft.com
-DOMAIN-SUFFIX,storeimages.microsoft.com
 DOMAIN-SUFFIX,storeimages.cdn-microsoft.com
 
 # === Cortana ===
@@ -186,8 +133,6 @@ DOMAIN-SUFFIX,cortana.ai
 DOMAIN-SUFFIX,cortana.com
 
 # === Skype ===
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,skypeonline.com
 
 # === Surface & Hardware ===
@@ -195,13 +140,10 @@ DOMAIN-SUFFIX,surface.com
 DOMAIN-SUFFIX,surfaceforbus.com
 
 # === Microsoft Edge ===
-DOMAIN-SUFFIX,microsoft-edge.microsoft.com
-DOMAIN-SUFFIX,edgedl.me.microsoft.com
 
 # === Bing ===
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,search.msn.com
 
 # === MSN ===
 DOMAIN-SUFFIX,msn.com
@@ -213,88 +155,53 @@ DOMAIN-SUFFIX,yammerusercontent.com
 
 # === Sway ===
 DOMAIN-SUFFIX,sway.ms
-DOMAIN-SUFFIX,sway.office.com
 
 # === Stream & Video ===
-DOMAIN-SUFFIX,stream.microsoft.com
 DOMAIN-SUFFIX,microsoft-stream.com
 DOMAIN-SUFFIX,msstream.net
 
 # === Microsoft 365 Compliance Center ===
-DOMAIN-SUFFIX,admin.microsoft.com
 DOMAIN-SUFFIX,admin.microsoft.cn
 
 # === Microsoft CDN ===
-DOMAIN-SUFFIX,cdn.microsoft.com
 DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,mscontent.net
 DOMAIN-SUFFIX,microsoft.com.edgekey.net
-DOMAIN-SUFFIX,e.microsoft.com
 
 # === Microsoft Support ===
-DOMAIN-SUFFIX,support.microsoft.com
-DOMAIN-SUFFIX,help.microsoft.com
 
 # === Microsoft Telemetry ===
-DOMAIN-SUFFIX,vortex.data.microsoft.com
-DOMAIN-SUFFIX,vortex-win.data.microsoft.com
-DOMAIN-SUFFIX,telemetry.microsoft.com
-DOMAIN-SUFFIX,watson.telemetry.microsoft.com
 
 # === Windows Activation & Licensing ===
-DOMAIN-SUFFIX,licensing.mp.microsoft.com
-DOMAIN-SUFFIX,activation.sls.microsoft.com
 
 # === Microsoft Downloads ===
-DOMAIN-SUFFIX,download.microsoft.com
-DOMAIN-SUFFIX,download.windowsupdate.com
 
 # === Microsoft APIs ===
-DOMAIN-SUFFIX,api.microsoft.com
 DOMAIN-SUFFIX,graph.windows.net
-DOMAIN-SUFFIX,azure.microsoft.com
 
 # === Microsoft Translator ===
 DOMAIN-SUFFIX,microsofttranslator.com
-DOMAIN-SUFFIX,translator.microsoft.com
 
 # === Microsoft Forms ===
-DOMAIN-SUFFIX,forms.microsoft.com
-DOMAIN-SUFFIX,formspro.microsoft.com
 
 # === List Management ===
-DOMAIN-SUFFIX,lists.microsoft.com
 
 # === Booking & Scheduling ===
-DOMAIN-SUFFIX,booking.microsoft.com
-DOMAIN-SUFFIX,bookings.microsoft.com
 
 # === To Do ===
-DOMAIN-SUFFIX,todo.microsoft.com
 
 # === Planner ===
-DOMAIN-SUFFIX,tasks.microsoft.com
-DOMAIN-SUFFIX,tasks.office.com
 
 # === Project for the Web ===
-DOMAIN-SUFFIX,project.microsoft.com
-DOMAIN-SUFFIX,projectforweb.microsoft.com
 
 # === Whiteboard ===
-DOMAIN-SUFFIX,whiteboard.microsoft.com
-DOMAIN-SUFFIX,whiteboard.office.com
 
 # === Viva Suite ===
-DOMAIN-SUFFIX,viva.office.com
 DOMAIN-SUFFIX,vivaengage.com
 
 # === Copilot Integration ===
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,openai.azure.com
 
 # === Additional Microsoft Domains ===
-DOMAIN-SUFFIX,microsoft.com.edgekey.net
 DOMAIN-SUFFIX,microsoft.demdex.net
 DOMAIN-SUFFIX,msftidentity.com
 DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,microsofttranslator.api.cognitive.microsoft.com

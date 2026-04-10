@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,tmobile.com
 
 # === Cloud & CDN ===
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,akamai.com
@@ -40,7 +39,6 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,square.com
 
 # === E-Commerce & Retail ===
-DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,target.com
@@ -90,7 +88,6 @@ DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,disneyworld.disney.go.com
 
 # === Social Media ===

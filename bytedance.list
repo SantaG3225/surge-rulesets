@@ -17,25 +17,15 @@ DOMAIN-SUFFIX,douyinlivemall.com
 DOMAIN-SUFFIX,douyinpay.com
 
 # === Douyin API & Backend ===
-DOMAIN-SUFFIX,api.douyin.com
-DOMAIN-SUFFIX,api-dy.bytedance.com
 DOMAIN-SUFFIX,api-dy.com
 DOMAIN-SUFFIX,aweme.com
 DOMAIN-SUFFIX,aweme-eagle.com
 DOMAIN-SUFFIX,aweme-sg.com
 
 # === Douyin Video & CDN ===
-DOMAIN-SUFFIX,v.douyin.com
-DOMAIN-SUFFIX,video.douyin.com
-DOMAIN-SUFFIX,videcdn.douyin.com
-DOMAIN-SUFFIX,videcdn.dycdn.com
 DOMAIN-SUFFIX,dycdn.com
 
 # === Douyin Live ===
-DOMAIN-SUFFIX,live.douyin.com
-DOMAIN-SUFFIX,livep.douyin.com
-DOMAIN-SUFFIX,biz.douyin.com
-DOMAIN-SUFFIX,business.douyin.com
 
 # === TikTok International (Related) ===
 DOMAIN-SUFFIX,tiktok.com
@@ -51,8 +41,6 @@ DOMAIN-SUFFIX,toutiaoimg.cn
 DOMAIN-SUFFIX,toutiaocloud.com
 
 # === Toutiao API ===
-DOMAIN-SUFFIX,api.toutiao.com
-DOMAIN-SUFFIX,api.snssdk.com
 DOMAIN-SUFFIX,api.toutiao.map.qq.com
 
 # === Xigua Video (西瓜视频 - ByteDance) ===
@@ -92,12 +80,8 @@ DOMAIN-SUFFIX,bytecdn.com
 DOMAIN-SUFFIX,bytedance.net
 
 # === Music Services (ByteDance Music) ===
-DOMAIN-SUFFIX,musicapi.toutiao.com
-DOMAIN-SUFFIX,music.toutiao.com
 
 # === ByteDance Payment ===
-DOMAIN-SUFFIX,douyinpay.com
-DOMAIN-SUFFIX,cashcow.douyin.com
 
 # === ByteDance Mini Program ===
 DOMAIN-SUFFIX,bytedance.microapp.cn
@@ -108,7 +92,6 @@ DOMAIN-SUFFIX,bytedance.game
 DOMAIN-SUFFIX,douyin.game
 
 # === Additional ByteDance Services ===
-DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.sg
 DOMAIN-SUFFIX,bytedanceasia.com
 DOMAIN-SUFFIX,bytedancevn.com

@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
-DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,adservice.google.com
 
 # === Facebook Tracking & Ads ===
@@ -21,9 +19,6 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,pixel.facebook.com
 
 # === Instagram Tracking ===
 DOMAIN-SUFFIX,instagram.com
@@ -153,7 +148,6 @@ DOMAIN-SUFFIX,ytimg.com
 # === Video Ad Platforms ===
 DOMAIN-SUFFIX,adap.tv
 DOMAIN-SUFFIX,brightroll.com
-DOMAIN-SUFFIX,videointelligence.doubleclick.net
 DOMAIN-SUFFIX,video-stats.video.google.com
 
 # === Popunder & Popup Networks ===
